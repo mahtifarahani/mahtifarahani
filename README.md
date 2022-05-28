@@ -1,12 +1,12 @@
 ### Hi there, I'm Mahdi 💜
 
-## I'm a Developer and Student
+## I'm a Developer and Student 💜
 
 - 2022 Goals: Contribute more to Open Source projects
 
 <br />
 
-### ✉️ Connect with me:
+### 💜 Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -32,8 +32,6 @@
 <br />
 
 ---
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mahtifarahani&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
 
 [instagram]: https://www.instagram.com/Mahtifarahani
 [linkedin]: https://www.linkedin.com/in/mahdi-farahani-2600871b5
