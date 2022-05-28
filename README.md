@@ -15,7 +15,7 @@
 
 <br />
 
-## Technologies ⚡
+## Technologies: ⚡💜
 
 ![C++](https://img.shields.io/badge/-C++-414141?style=for-the-badge&logo=C&color=3C005A)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-414141?style=for-the-badge&logo=javascript&color=3C005A)
