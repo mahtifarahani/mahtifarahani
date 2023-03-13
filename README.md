@@ -3,7 +3,6 @@
 ## I'm a Front End-Developer and Computer Engineering Student 💜
 
 - Working at UniPlato Australia 🦄 (start: Jul 2022)
-- 2022 Goal: Contribute more to Open Source projects
 - Great Goal: DevOps and ...........................
 
 <br />
