@@ -1,10 +1,5 @@
 ### Hi there, I'm Mahdi 💜
 
-## I'm a Front End-Developer and Computer Engineering Student 💜
-
-- Working at UniPlato Australia 🦄 (start: Jul 2022)
-- Great Goal: DevOps and ...........................
-
 <br />
 
 ### Connect with me: 💜
