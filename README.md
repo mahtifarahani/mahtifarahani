@@ -18,7 +18,7 @@ I specialize in **React**, **Next.js**, and **Node.js**, blending creativity wit
 
 ---
 
-### <sub>[View My Resume](https://flowcv.com/resume/j15rcs18p8)</sub>
+[![View My Resume](https://img.shields.io/badge/Resume-View%20Now-0078FF?style=for-the-badge&logo=flowcv&logoColor=white)](https://flowcv.com/resume/j15rcs18p8)
 
 ---
 
