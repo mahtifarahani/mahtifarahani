@@ -1,40 +1,51 @@
-```md
-## 🧠 Mahdi Farahani - Terminal Edition
+// 1. Importing the most essential package: Me!
+import { Farahani as Dev, Fun as Life } from 'universe';
 
-```
+// 2. Initialize my personality
+const mahdi = new Dev({
+  name: 'مهدی فراهانی (Mahdi Farahani)',
+  title: 'Front-End Engineer ⚡',
+  mood: Life.ENJOY_THE_CHAOS,
+  powerLevel: 9001,
+});
 
-\~/startup/mahdi-farahani \$ npm run dev
+// 3. Let's print my presence to the world
+console.log(`
+  Hey there 👋, I’m Mahdi!  
+  Turning ☕ into UI & bugs into features since... well, never mind.
+`);
 
-> Booting personal profile...
+// 4. My skills (abridged, but spicy)
+const skills = [
+  'React', 
+  'TypeScript',
+  'Next.js',
+  'Creativity', 
+  'Memes',
+  'Infinite curiosity'
+];
 
-🔧 Initializing...
+skills.forEach(skill => mahdi.learn(skill));
 
-const mahdiFarahani = {
-name: "Mahdi Farahani",
-role: "Frontend Developer",
-alias: \["UI Artisan", "Bug Slayer", "Pixel Perfectionist"],
-techStack: \["React", "Next.js", "Tailwind", "TypeScript"],
-timezone: "constantly() && coding()",
-motto: "Code with style, design with vibes ✨",
-currentStatus: "debugging... probably at 3AM ☕"
+// 5. Connect with me, don’t be shy!
+const social = {
+  Email:    'mahtifarahani@gmail.com',
+  LinkedIn: 'https://www.linkedin.com/in/mahdi-farahani-2600871b5',
+  Telegram: 'https://t.me/mahtifarahani'
 };
 
-const contact = {
-resume:   "[https://flowcv.com/resume/j15rcs18p8](https://flowcv.com/resume/j15rcs18p8)",
-linkedin: "[https://www.linkedin.com/in/mahdi-farahani-2600871b5](https://www.linkedin.com/in/mahdi-farahani-2600871b5)",
-telegram: "[https://t.me/mahtifarahani](https://t.me/mahtifarahani)",
-email:    "[mahtifarahani@gmail.com](mailto:mahtifarahani@gmail.com)"
-};
+Object.entries(social).forEach(([platform, url]) => {
+  console.log(`🔗 ${platform}: ${url}`);
+});
 
-🧠 QuoteOfTheBuild:
+// 6. Want my official brag-sheet? Here you go:
+console.log('📝 Resume: https://flowcv.com/resume/j15rcs18p8');
 
-> // "Make it simple, but significant." — Don Draper
+// 7. Easter egg: If you’ve read this far, drop me a “👾” on Telegram!
 
-⌨️ Typing...
-
-> const me = MahdiFarahani;
-> me.build("beautiful things with code");
-
-✅ Boot complete.
-
-```
+// 8. Final words
+console.log(`
+  🚀 Pushing pixels, pixels pushing back.
+  🧩 Always building, always learning, always questioning.
+  🔮 If you like what you see, let’s build the future.
+`);
