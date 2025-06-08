@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Mahdi Farahani -->
 <div align="center">
   
-<h1 align="center">Hey there, I'm Mahdi Farahani 👨‍💻</h1>
+<h1 align="center">Mahdi Farahani</h1>
 
 <p align="center">
   Front-End Developer • Debugging at 3AM Specialist 💫
