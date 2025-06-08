@@ -1,35 +1,48 @@
-### Hi there, I'm Mahdi 💜
+<h1 align="center">Hey there, I'm Mahdi Farahani 👨‍💻</h1>
 
-<br />
-
-### Connect with me: 💜
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-<br />
-
-## Technologies: ⚡💜
-
-![C++](https://img.shields.io/badge/-C++-414141?style=for-the-badge&logo=C&color=3C005A)
-![JavaScript](https://img.shields.io/badge/-JavaScript-414141?style=for-the-badge&logo=javascript&color=3C005A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-414141?style=for-the-badge&logo=typescript&color=3C005A)
-![React](https://img.shields.io/badge/-React-414141?style=for-the-badge&logo=react&color=3C005A)
-![Redux](https://img.shields.io/badge/-Redux-414141?style=for-the-badge&logo=redux&color=3C005A)
-![NextJs](https://img.shields.io/badge/-Next%20JS-414141?style=for-the-badge&color=3C005A)
-![HTML5](https://img.shields.io/badge/-HTML5-414141?style=for-the-badge&logo=html5&color=3C005A)
-![CSS3](https://img.shields.io/badge/-CSS3-414141?style=for-the-badge&logo=css3&color=3C005A)
-![Sass](https://img.shields.io/badge/-Sass-414141?style=for-the-badge&logo=sass&color=3C005A)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-414141?style=for-the-badge&logo=bootstrap&color=3C005A)
-![Tailwind](https://img.shields.io/badge/-Tailwind-414141?style=for-the-badge&logo=tailwind&color=3C005A)
-![Git](https://img.shields.io/badge/-Git-414141?style=for-the-badge&logo=git&color=3C005A)
-![GitHub](https://img.shields.io/badge/-GitHub-414141?style=for-the-badge&logo=github&color=3C005A)
-
-<br />
+<p align="center">
+  Front-End Developer • UI Aesthete • Debugging at 3AM Specialist 💫
+</p>
 
 ---
 
-[instagram]: https://www.instagram.com/Mahtifarahani
-[linkedin]: https://www.linkedin.com/in/mahdi-farahani-2600871b5
+🚀 **Code with style, design with vibes.**  
+I build interfaces that don’t just work — they *wink at you*.  
+Pixels obey me, CSS fears me, and bugs… well, they run 😎
+
+---
+
+## 👾 Quick Stats
+
+- `role`: Front-End Developer  
+- `stack`: React, Tailwind, Next.js, Animation Shenanigans  
+- `energy source`: caffeine, chaos, and console.logs  
+- `timezone`: Mostly awake, mostly coding
+
+---
+
+## 🔗 Let's Connect
+
+[📄 My Resume](https://flowcv.com/resume/j15rcs18p8)  
+[💼 LinkedIn][linkedin]  
+[📬 Telegram][telegram]  
+[📧 Email me][email]  
+
+---
+
+## 🧠 Random Quote to Live By
+
+> “Make it simple, but significant.” — Don Draper (probably while styling a `<div>`)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=const+me+%3D+Mahdi+Farahani;Frontend+Dev+%7C+UI+Lover;Building+beautiful+things+with+code" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- Socials -->
+[email]: mailto:mahtifarahani@gmail.com  
+[linkedin]: https://www.linkedin.com/in/mahdi-farahani-2600871b5  
 [telegram]: https://t.me/mahtifarahani
